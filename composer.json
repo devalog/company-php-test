@@ -1,5 +1,5 @@
 {
-    "name": "devin/devin",
+    "name": "devinlogantest/devintest",
     "description": "Test package",
     "require": {
         "php": ">=8.0.0"
