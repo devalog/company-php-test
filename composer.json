@@ -1,0 +1,7 @@
+{
+    "name": "devin/devin",
+    "description": "Test package",
+    "require": {
+        "php": ">=8.0.0"
+    },
+}
